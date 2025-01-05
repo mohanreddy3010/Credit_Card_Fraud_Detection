@@ -54,6 +54,4 @@ This dataset comes from a real-world collection of credit card transactions and 
 	•	Size: 284,807 samples, 31 features
 	•	Target Variable: ‘Class’ (0: Non-Fraud, 1: Fraud)
 
-The dataset provides a real-world scenario of financial fraud detection, making it ideal for practicing machine learning, especially in the context of imbalanced datasets.
 
-This comprehensive README includes all the necessary information for GitHub, combining the project overview, dataset details, model development, evaluation metrics, and results.
